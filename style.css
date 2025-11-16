@@ -45,7 +45,7 @@ main {
     margin: 30px auto;
     padding: 0 20px;
 }
-.introducao img {
+.inicio img {
     width: 100%;
     border-radius: 8px;
     margin-top: 10px;
@@ -80,7 +80,13 @@ footer {
     }
 }
 
+.introducao {
+    font-size: 16px;
+}
+
 .desenvolvimento {
     font-size: 16px;
+}
+
 
 
